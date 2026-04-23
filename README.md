@@ -10,6 +10,3 @@ An ascii tree created using the terminal as a canvas. Fully customizable. It was
 
 
 ![Demo](https://github.com/PedroFerrariBarbosa202/C_Tree_Generator/blob/main/images/tree4.png)
-
-
-![Demo](https://github.com/PedroFerrariBarbosa202/C_Tree_Generator/blob/main/images/tree5.png)
